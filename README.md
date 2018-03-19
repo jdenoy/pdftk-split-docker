@@ -2,7 +2,7 @@
 
 This container was created because building pdftk on arch was taking more time than creating a docker image.
 
-__NOTE__: This is published on docker registry, so you don't need to clone this repo etc.  Just install docker and type the commands below.
+__NOTE__: This will be published on docker registry, so you don't need to clone this repo etc.  Just install docker and type the commands that will be put below.
 
 
 ---
